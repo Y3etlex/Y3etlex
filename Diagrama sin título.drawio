@@ -4,20 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wPLNWbKmPA-c027tALPM-1" value="Alumno" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wPLNWbKmPA-c027tALPM-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="wPLNWbKmPA-c027tALPM-1" target="wPLNWbKmPA-c027tALPM-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="410" as="sourcePoint" />
-            <mxPoint x="270" y="360" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wPLNWbKmPA-c027tALPM-3" value="identificador" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="80" height="60" as="geometry" />
+        <mxCell id="wPLNWbKmPA-c027tALPM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
